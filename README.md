@@ -94,15 +94,34 @@ Repository Structure
 machine_learning/
 │
 ├── CNN.ipynb
+
 ├── Fashionminist_ANN.ipynb
+
 ├── Calories_Burnt_Prediction_Using_Machine_Learning.ipynb
+
 ├── Petroleum_Product_Consumption_Prediction.ipynb
+
 ├── Predicting_Next_Day_Rainfall_Using_10_Years_of_Weather_Data.ipynb
+
 ├── PulsarDetect_Classifier_for_Pulsar_Star_Detection.ipynb
+
 ├── churn_modelling.ipynb
+
 ├── knn_classification.ipynb
+
 ├── Question_Answering_System_Using_Recurrent_Neural_Networks_(RNN).ipynb
+
 ├── RNN.ipynb
+
 ├── sentiment_analysis_using_lstm_pytorch.ipynb
+
 ├── text_preprocessing_NLP.ipynb
+
 └── README.md
+
+
+GITHUB LINK : https://github.com/gow504/machine_learning
+
+mail : sanapagowtham068@gmail.com
+
+contact : 9052694807

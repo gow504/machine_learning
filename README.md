@@ -80,10 +80,16 @@ Hyperparameter Tuning
 Artificial Neural Networks (ANN)
 
 Convolutional Neural Networks (CNN)
+
+
 Recurrent Neural Networks (RNN)
+
 Long Short-Term Memory (LSTM)
+
 Natural Language Processing (NLP)
 Computer Vision
+
+
 Repository Structure
 machine_learning/
 │
